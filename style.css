@@ -8,6 +8,7 @@ span {
 
 .jumbotron {
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+<<<<<<< HEAD
 }
 
 .loader {
@@ -115,4 +116,7 @@ span {
     50% {
         box-shadow: inset 0vw 0vw 0vw .1vw #03cccf, 0vw 0vw 1.5vw 0vw #03cccf;
     }
+=======
+    border-radius: 20px;
+>>>>>>> refs/remotes/origin/master
 }
